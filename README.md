@@ -1,2 +1,2 @@
-# antholony.github.io
-For use in https://antholony.github.io/
+# anthony1x.github.io
+For use in https://anthony1x.github.io/
