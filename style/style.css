@@ -1,9 +1,11 @@
 * {
-    text-align: center;
+  text-align: center;
 }
+
 body {
-    background-color: #121212;
+  background-color: #121212;
 }
+
 h1,
 h2,
 h3,
@@ -11,18 +13,32 @@ h4,
 h5,
 h6,
 p {
-    color: whitesmoke;
+  color: whitesmoke;
 }
+
 a:link,
 a:visited,
 a:hover,
 a:active {
-    text-decoration: none;
-    color: whitesmoke;
+  text-decoration: none;
+  color: whitesmoke;
 }
+
 button {
-    background-color: #161616;
-    border: 1px solid gray;
-    padding: 5px;
-    text-align: center;
+  background-color: #161616;
+  color: whitesmoke;
+  border: 1px solid gray;
+  padding: 5px;
+  text-align: center;
 }
+
+button:hover {
+  cursor: pointer;
+}
+
+.links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=style.css.map */
